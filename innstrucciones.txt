@@ -1,0 +1,18 @@
+Funcion del programa:
+
+ tomar un pdf que contiene multiples recibos de 
+ sueldo y separarlos en pdf individuales.
+
+Instrucciones de uso:
+
+1- el pdf que contiene multiples recibos debe 
+ser puesto en la carpeta "input_recibos".
+
+* el programa solo procesara el primer archivo
+que encuentre en esa carpeta.()
+
+2- para iniciar el proceso, hacer click en el 
+archivo "Iniciar Proceso".
+
+* los recibos individuales seran generados en la 
+carpeta "output_recibos".
