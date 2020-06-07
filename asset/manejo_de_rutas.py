@@ -1,6 +1,7 @@
 #modulo para menejo de rutas
 import os
 
+#creacion de las carpetas necesarias, en caso de no encontrarse presentes
 def verificar_directorios():
 	directorios=["input_recibos", "output_recibos", "legajos"]
 	for directorio in directorios:
